@@ -1,0 +1,43 @@
+# Blocks Apple telemetry and tracking but won't break your device
+# Sourced from https://github.com/adversarialtools/apple-telemetry/blob/master/blacklist
+# Originally hosted at https://github.com/llacb47/apple-telemetry/blob/master/blacklist
+appleglobal.102.112.2o7.net
+appleglobal.112.2o7.net
+pancake.g.aaplimg.com
+zeusmedia.g.aaplimg.com
+smoot-feedback.v.aaplimg.com
+supportmetrics.apple-support.akadns.net
+pipe.cloudapp.aria.akadns.net
+dw-cbsi.cnet-basic-performance.akadns.net
+cstat-lb.apple.com.akadns.net
+gsas.apple.com.akadns.net
+identity.apple.com.akadns.net
+idiagnostics.apple.com.akadns.net
+iphonesubmissions.apple.com.akadns.net
+lcdn-locator-usuqo.apple.com.akadns.net
+ocsp-lb.apple.com.akadns.net
+outsideapple.apple.com.akadns.net
+radarsubmissions.apple.com.akadns.net
+tbsc.apple.com.akadns.net
+wu.apple.com.akadns.net
+wu-mdn.apple.com.akadns.net
+wu-nwk.apple.com.akadns.net
+pancake.cdn-apple.com.akadns.net
+fr51p02sa.guzzoni-apple.com.akadns.net
+mu21p02sa.guzzoni-apple.com.akadns.net
+sp11p03sa.guzzoni-apple.com.akadns.net
+isg-apple.com.akadns.net
+mt-ingestion-service-mr22.itunes-apple.com.akadns.net
+mt-ingestion-service-pv.itunes-apple.com.akadns.net
+mt-ingestion-service-st11.itunes-apple.com.akadns.net
+xp.itunes-apple.com.akadns.net
+daf.xp.itunes-apple.com.akadns.net
+prod-w.nexus.live.com.akadns.net
+prod.omextemplates.live.com.akadns.net
+gs-loc.ls-apple.com.akadns.net
+gs-loc-new.ls-apple.com.akadns.net
+gsp-ssl.ls-apple.com.akadns.net
+gsp-ssl-dynamic.ls-apple.com.akadns.net
+gsp-ssl-geomap.ls-apple.com.akadns.net
+gsp10-ssl.ls-apple.com.akadns.net
+gsp36-ssl.ls-apple.com.akadns.net
